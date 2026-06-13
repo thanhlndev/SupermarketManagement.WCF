@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SupermarketManagement.WCF\\SupermarketManagement.WCF.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SupermarketManagement.WinForms\\SupermarketManagement.WinForms.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

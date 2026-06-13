@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SupermarketManagement.WCF/SupermarketManagement.WCF.csproj" />
+  <Project Path="SupermarketManagement.WinForms/SupermarketManagement.WinForms.csproj">
+    <BuildDependency Project="SupermarketManagement.WCF/SupermarketManagement.WCF.csproj" />
+  </Project>
+</Solution>
